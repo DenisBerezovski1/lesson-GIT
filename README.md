@@ -167,3 +167,171 @@ git rm -r --cached <dir> # удалить из индекса
 ```bash
 git mv <old name> <new name>
 ```
+# Ветки
+
+# Создание и переключения
+
+Когда вы комитете git создает ветку по умолчанию master. Ветка это специальная ссылка на коммит .git/refs/heads
+
+```bash
+git branch
+git branch -v
+```
+
+HEAD используется для того чтобы мы понимали где находимся сейчас 
+
+для создание новой ветки 
+
+```bash
+git branch feature
+```
+
+переключения 
+
+```bash
+git checkout feature
+```
+
+2 в одном 
+
+```bash
+git checkout -b feature
+```
+
+# Checkout при незакоммиченных изменениях
+
+Если вам надо срочно надо произвести переключения, но если вам не надо сохронят
+
+```bash
+git checkout -f <Ветка>
+git checkout -f HEAD - для удаления изменении
+```
+
+Но если вам необходимо сохранить незаконченные изменение то
+
+```bash
+git stash # временно сохраняем
+git checkout <Веткка> # переключаемся
+# ............................................
+git checkout featur # обратно возвращаемся
+git stash pop
+
+```
+
+# Перенос веток “вручную”
+
+```bash
+git branch master <commit_hashcode> # Создать ветку в комите 
+git branch -f master <commit_hashcode> # Создать если нет иначе перемистить
+
+git checkout -B master <commit_hashcode> # тоже самое что и выше, но и HEAD меняется
+
+```
+
+# Состояние отделенной HEAD
+
+Если вы делайте так 
+
+```bash
+git checkout <commit_hashcode>
+```
+
+то HEAD не будет ссылаться на ветку 
+
+Гит со временем удаляет эти комиты 
+
+Если вы хотите этот комит пременит на текущую ветку то команда 
+
+```bash
+git cherry-pick <commit_hashcode>
+```
+
+# Восстановление предыдущих версий файлов
+
+Получить указанный файл на момент переданного комита, но оно добавляеть эти файлы в индекс
+
+```bash
+git checkout <id или ветка> <path>
+```
+
+Убрать из индекса
+
+```bash
+git reset <path>
+```
+
+Если вы хотите удалить последние изменении в файле
+
+```bash
+git checkout -- <path>
+```
+
+# Просмотр истории и старых файлов
+
+```bash
+git log
+git log --oneline
+```
+
+По умолчанию git log выводить ветку с HEAD
+
+```bash
+git log <ветка> --oneline
+```
+
+Для просмотра commit и иззменении в файле
+
+```bash
+git show <id или ветка>
+```
+
+для просмотра родителя используй тилду (~)
+
+```bash
+git show HEAD~
+
+git show HEAD~~
+
+git show HEAD~~ --quiet
+
+git show HEAD~3 # = git show HEAD~~~ = git show @~~~
+
+git show @~:index.html # получим файл
+
+git show :/<Что искать?>
+```
+
+# Слияние веток “перемоткой”
+
+```bash
+git merge <ветка или id>
+```
+
+откать слиянии
+
+```bash
+git branch -f master <id>
+
+git branch -f master ORIG_HEAD
+
+```
+
+# Удаление веток
+
+```bash
+git branch -d <ветка>
+```
+
+но это сработает только в случае если ветка объядена с другой веткой, то есть ссылаются на 1 коммит
+
+```bash
+git branch -D <Ветка> # крайне не рекомендуется
+```
+
+# История переключений веток: лог ссылок reflog
+
+```bash
+git reflog 
+
+git reflog <ветка>
+```
