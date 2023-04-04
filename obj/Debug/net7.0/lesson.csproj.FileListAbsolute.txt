@@ -1,0 +1,90 @@
+C:\Users\PSK\Desktop\GB\lesson\bin\Debug\net7.0\lesson.exe
+C:\Users\PSK\Desktop\GB\lesson\bin\Debug\net7.0\lesson.deps.json
+C:\Users\PSK\Desktop\GB\lesson\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\PSK\Desktop\GB\lesson\bin\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson\bin\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\PSK\Desktop\GB\lesson\obj\Debug\net7.0\ref\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.exe
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.deps.json
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\PSK\Desktop\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\ref\lesson.dll
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.exe
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.deps.json
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\bin\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\PSK\Desktop\навести порядок\GB\lesson_1_2_3_4_5\obj\Debug\net7.0\ref\lesson.dll
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\bin\Debug\net7.0\lesson.exe
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\bin\Debug\net7.0\lesson.deps.json
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\bin\Debug\net7.0\lesson.dll
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\bin\Debug\net7.0\lesson.pdb
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.dll
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.pdb
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lesson_1_2_3_4_5_6_7\lesson_1_2_3_4_5_6_7\obj\Debug\net7.0\ref\lesson.dll
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\bin\Debug\net7.0\lesson.exe
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\bin\Debug\net7.0\lesson.deps.json
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\bin\Debug\net7.0\lesson.dll
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\bin\Debug\net7.0\lesson.pdb
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.dll
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.pdb
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\DELL\Desktop\GB\lesson_1_2_3_4_5_6_7_8\obj\Debug\net7.0\ref\lesson.dll
+C:\Users\PSK\Desktop\lesson GIT\bin\Debug\net7.0\lesson.exe
+C:\Users\PSK\Desktop\lesson GIT\bin\Debug\net7.0\lesson.deps.json
+C:\Users\PSK\Desktop\lesson GIT\bin\Debug\net7.0\lesson.runtimeconfig.json
+C:\Users\PSK\Desktop\lesson GIT\bin\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\lesson GIT\bin\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.csproj.AssemblyReference.cache
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.AssemblyInfoInputs.cache
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.AssemblyInfo.cs
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.dll
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\refint\lesson.dll
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.pdb
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\lesson.genruntimeconfig.cache
+C:\Users\PSK\Desktop\lesson GIT\obj\Debug\net7.0\ref\lesson.dll
