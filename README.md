@@ -26,8 +26,8 @@ git config --unset <config>
 Пример:
 
 ```bash
-git config --global user.name "ZiganshinIB"
-git config --global user.email "elzig3012@gmail.com"
+git config --global user.name "Denis"
+git config --global user.email "denisberezovski@mail.ru"
 git config --global --unset user.name
 git config --global --remove-section user
 ```
